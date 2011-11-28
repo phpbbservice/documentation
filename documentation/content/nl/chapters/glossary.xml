@@ -10,15 +10,15 @@
 			<holder>phpBB Group</holder>
 		</copyright>
 	</chapterinfo>
-	<title>Glossary</title>
+	<title>Verklarende woordenlijst</title>
 	<abstract>
-		<para>A guide to the terms used in the phpBB Documentation and on the forums.</para>
+		<para>Een lijst met termen die gebruikt worden in de phpBB Documentatie en op de forums en hun betekenis.</para>
 	</abstract>
 	<section id="terms">
 		<sectioninfo>
 			<authorgroup>
 				<author>
-					<othername></othername>
+					<othername>Rotsblok</othername>
 				</author>
 			</authorgroup>
 		</sectioninfo>
